@@ -1,0 +1,5 @@
+theme: jekyll-theme-leap-day
+title: Capstone Proposal
+show_downloads: true
+titles_from_headings:
+  enabled: false
