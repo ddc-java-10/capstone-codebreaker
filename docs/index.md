@@ -111,6 +111,8 @@ _Codebreaker_ is an Android-based game resembling [Mastermind] or [Bulls and Cow
 
 * SMS-, e-mail- and Android alert-based notications of player match and round changes.
 
+* Hints: Game preferences include a setting to allow a user to request a hint (generated according to algorithms described by Knuth and others) at a cost of an extra guess (i.e. requesting a hint automatically submits the hint as a guess, but counting as 2 guesses in the round tally).
+
 ## Attachments
 
 * ["The Computer as Master Mind"]({{ '/assets/pdf/knuth-mastermind.pdf' | relative_url }}), Donald E. Knuth
