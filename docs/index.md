@@ -15,7 +15,7 @@ _Codebreaker_ is an Android-based game resembling [Mastermind] or [Bulls and Cow
 
 * People who enjoy logic puzzles with a competitive aspect.
 
-    > As someone who prides myself on analytical thinking, I want to be able to play games that let me demonstrate that ability in competition with others.
+    > As someone who prides myself on analytical thinking, I want to be able to play competitive logic games, to help me maintain and demonstrate those skills.
 
 * People who enjoy challenging games, but who want to be able to set the parameters of the game in order to budget their time.
 
