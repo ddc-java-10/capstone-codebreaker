@@ -78,6 +78,7 @@ _Codebreaker_ is an Android-based game resembling [Mastermind] or [Bulls and Cow
 * **Data persistence**
 
     * Personal win-loss-tie statistics (refreshed automatically from the server on connection).
+
     * Gameplay settings.
 
 * **Device or external services used**
