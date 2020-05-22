@@ -75,7 +75,12 @@ _Codebreaker_ is an Android-based game resembling [Mastermind] or [Bulls and Cow
 
     * While a game is in progress, both players will see the history of guesses and results in the current and completed (if applicable) rounds.
 
-* *Device or external services used*
+* **Data persistence**
+
+    * Personal win-loss-tie statistics (refreshed automatically from the server on connection).
+    * Gameplay settings.
+
+* **Device or external services used**
 
     * Google Sign In
 
@@ -97,6 +102,16 @@ _Codebreaker_ is an Android-based game resembling [Mastermind] or [Bulls and Cow
 
     * Responding to queries (of rankings, pool members, etc.) from the client app with the requested data.
 
+* **Data persistence**
+
+    * User registry w/ user profiles &amp; preferences.
+    
+    * Game state for in-progress games.
+
+    * Game results for completed games.
+    
+    * Waiting player pool.
+    
 * **Device or external services used**
 
     * Google OAuth 2.0 provider
